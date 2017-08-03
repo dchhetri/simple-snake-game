@@ -1,0 +1,2 @@
+- Simple Snake Game
+- To run, simply run index.html in browser( tested in Chrome )

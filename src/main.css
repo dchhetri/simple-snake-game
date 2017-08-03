@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-size {
+    height: 100%;
+    width: 100%;
+}
+
+#app {
+    width: 600px;
+    height: 600px;
+    margin: 20px auto;
+    border: 1px solid black;   
+}
